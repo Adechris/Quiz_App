@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(to left,rgba(75, 40, 230, 0.5), #1398d6); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    padding-bottom: 40px;
+    height: 800px;
+}
+.signup{
+    margin-top: 70px;
+}
+.question{
+    margin-top: 70px;
+    text-align: center;
+}
+.score{
+    margin-top: 100px;
+    text-align: center;
+}
+label{
+    margin-top: 20px;
+}
